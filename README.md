@@ -1,6 +1,6 @@
 # BLOGAPP 🆕
 
-## Fullstack Blog application (LIVE DEMO)[https://secure-temple-73769.herokuapp.com/]
+## Fullstack Blog application [LIVE DEMO](https://secure-temple-73769.herokuapp.com/)
 
 - Users 🌟
 - Posts 🌟
